@@ -1,0 +1,29 @@
+ {
+  "project_info": {
+    "project_number": "81604324838",
+    "project_id": "deal-ninja",
+    "storage_bucket": "deal-ninja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81604324838:android:df79e5577fee27aba63a27",
+        "android_client_info": {
+          "package_name": "com.deal_ninja_spectrum.deal_ninja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hlppRg9c44W1hRfmQg77qBnQ-Axbq2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
